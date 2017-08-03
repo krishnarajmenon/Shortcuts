@@ -1,0 +1,1 @@
+for /f "tokens=2 delims=[]" %%f in ('ping -4 -n 1 %computername% ^|find /i "pinging"') do echo %%f|clip
