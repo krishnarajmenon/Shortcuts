@@ -7,5 +7,5 @@ rem echo krishnaraj.menon|clip
 rem Start explorer in the current location of cmd
 rem start iexplore http://www.google.com
 
-
-
+rem Launch advanced system properties
+rem SystemPropertiesAdvanced
