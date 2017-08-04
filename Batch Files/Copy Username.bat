@@ -1,1 +1,1 @@
-echo krishnaraj.menon|clip
+echo {username}|clip
