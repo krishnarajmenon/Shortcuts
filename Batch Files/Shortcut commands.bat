@@ -12,3 +12,6 @@ rem start .
 
 rem Launch advanced system properties
 rem SystemPropertiesAdvanced
+
+rem Copy all filenames into a file
+rem dir /B > filelist.txt
