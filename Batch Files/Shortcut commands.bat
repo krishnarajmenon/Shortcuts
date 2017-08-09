@@ -15,3 +15,6 @@ rem SystemPropertiesAdvanced
 
 rem Copy all filenames into a file
 rem dir /B > filelist.txt
+
+rem List all the files and folders
+rem tree
